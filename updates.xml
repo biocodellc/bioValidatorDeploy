@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<updateDescriptor baseUrl="">
+  <entry targetMediaFileId="64" updatableVersionMin="" updatableVersionMax="" fileName="bioValidator_macos_0_9_8.dmg" newVersion="0.9.8" newMediaFileId="64" fileSize="23420928" bundledJre="" archive="false">
+    <comment />
+  </entry>
+  <entry targetMediaFileId="65" updatableVersionMin="" updatableVersionMax="" fileName="bioValidator_windows_0_9_8.exe" newVersion="0.9.8" newMediaFileId="65" fileSize="40391168" bundledJre="windows-x86-1.6.0_43" archive="false">
+    <comment />
+  </entry>
+</updateDescriptor>
+
